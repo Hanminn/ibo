@@ -18,33 +18,33 @@ AI 챗봇 ibo는 복잡하고 이해하기 어려운 보험 약관을 누구나 
 또한 음성(STT/TTS) 기능을 통해 텍스트뿐만 아니라 음성으로도 서비스를 이용할 수 있습니다.
 
 ## 프로젝트 기능
-• 자연어 질의응답
-  ○ "이 보험은 교통사고를 보장하나요?"처럼 직접 질문 가능
-• 음성 지원(STT/TTS)
-  ○ 텍스트 입력뿐 아니라 음성으로도 서비스 이용 가능
-• 청구 절차 설명
-  ○ 실제 보험금 청구 시 필요한 절차와 조건을 단계별로 안내
-• 자주 묻는 질문 사이드바
-• 서비스 이용 약관 및 개인정보 이용 안내
+• 자연어 질의응답 <br>
+  ○ "이 보험은 교통사고를 보장하나요?"처럼 직접 질문 가능 <br>
+• 음성 지원(STT/TTS) <br>
+  ○ 텍스트 입력뿐 아니라 음성으로도 서비스 이용 가능 <br>
+• 청구 절차 설명 <br>
+  ○ 실제 보험금 청구 시 필요한 절차와 조건을 단계별로 안내 <br>
+• 자주 묻는 질문 사이드바 <br>
+• 서비스 이용 약관 및 개인정보 이용 안내 <br>
 
 ## 개발환경
-• OS 
-  ○ Local : Wondows 10
-• IDE 
-  ○ Visual Studio Code
-  ○ Jupyter Notebook
-• API
-  ○ OpenAI API
-  ○ Azure Speech API
+• OS <br>
+  ○ Local : Wondows 10 <br>
+• IDE <br>
+  ○ Visual Studio Code <br>
+  ○ Jupyter Notebook <br>
+• API <br>
+  ○ OpenAI API <br>
+  ○ Azure Speech API <br>
 ## 상세 스택
-• Backend
-  ○ Flask
-  ○ Gunicorn
-  ○ python-dotenv
-• Frontend
-  ○ HTML / CSS / JavaScript
+• Backend <br>
+  ○ Flask <br>
+  ○ Gunicorn <br>
+  ○ python-dotenv <br>
+• Frontend <br>
+  ○ HTML / CSS / JavaScript <br>
 ## 협업 툴
-• 일정관리 : Notion
+• 일정관리 : Notion <br>
 • 이슈 및 형상관리 :
 
 ## 시스템 아키텍쳐
