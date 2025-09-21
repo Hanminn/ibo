@@ -33,6 +33,8 @@ AI 챗봇 ibo는 복잡하고 이해하기 어려운 보험 약관을 누구나 
 - IDE
   - Visual Studio Code
   - Jupyter Notebook
+- UI/UX
+  - figma
 - API
   - OpenAI API
   - Azure Speech API
